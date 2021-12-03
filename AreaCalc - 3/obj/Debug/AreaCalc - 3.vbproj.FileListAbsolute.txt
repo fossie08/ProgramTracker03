@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\AreaCalc - 3\AreaCalc - 3\obj\Debug\AreaCalc - 3.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\AreaCalc - 3\AreaCalc - 3\bin\Debug\AreaCalc - 3.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\AreaCalc - 3\AreaCalc - 3\bin\Debug\AreaCalc - 3.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\AreaCalc - 3\AreaCalc - 3\obj\Debug\AreaCalc - 3.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\AreaCalc - 3\AreaCalc - 3\obj\Debug\AreaCalc - 3.pdb
